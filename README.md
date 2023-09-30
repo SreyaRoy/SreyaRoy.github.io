@@ -27,16 +27,13 @@
 - Tested the design and operating effectiveness of controls, documentation of testing, and resolution steps for deficiencies noted within the controls resulting in our team’s work being free from errors.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Sentiment Analysis of Musical Reviews: Understanding Customer Emotions and Preferences
+- Developed a machine learning system capable of automatically analyzing the text of musical reviews and determining whether the sentiment expressed within the text was positive or negative. This sentiment analysis would enable us to gain insights into the overall opinions and emotions conveyed in these reviews, thereby assisting in understanding customer sentiments and preferences related to musical experiences.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Data Analysis and Regression Modeling
+- Designed a visual representation of the relationship between test scores and statistics grades using Python's Matplotlib function. Employed a linear regression model to analyze the correlation between the two variables and quantified the model's fit using the coefficient of determination (R-squared).
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Patienty - Application
+- Collaborated with peers to design and develop a comprehensive Patient Management System, a web-based application aimed at streamlining healthcare processes. Led the frontend development using React and orchestrated seamless communication and data exchange across various system components.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
