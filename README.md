@@ -28,7 +28,7 @@
 ## Projects
 
 ### Sentiment Analysis of Musical Reviews: Understanding Customer Emotions and Preferences
-- Developed a machine learning system capable of automatically analyzing the text of musical reviews and determining whether the sentiment expressed within the text was positive or negative. This sentiment analysis would enable us to gain insights into the overall opinions and emotions conveyed in these reviews, thereby assisting in understanding customer sentiments and preferences related to musical experiences.
+- Developed a machine learning system capable of automatically analyzing the text of musical reviews and determining whether the sentiment expressed within the text was positive or negative. Used the power of various Python libraries and functions, including NLTK for tokenization, stemming, and lemmatization, as well as scikit-learn for feature extraction and the implementation of a Random Forest Classifier as the core machine learning model. This sentiment analysis aimed to assist in understanding customer sentiments and preferences related to musical experiences.
 
 ### Data Analysis and Regression Modeling
 - Designed a visual representation of the relationship between test scores and statistics grades using Python's Matplotlib function. Employed a linear regression model to analyze the correlation between the two variables and quantified the model's fit using the coefficient of determination (R-squared).
