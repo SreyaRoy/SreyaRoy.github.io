@@ -42,5 +42,4 @@
 
 Collaborated with peers to design and develop a comprehensive Patient Management System, a web-based application aimed at streamlining healthcare processes. Led the frontend development using React and orchestrated seamless communication and data exchange across various system components.
 
-![Patiently](/assets/img/bike_study.jpeg)
 
