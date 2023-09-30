@@ -7,8 +7,8 @@
 
 ## Education
 - Toronto Metropolitan University, Toronto ON
-    Bachelor of Science (HBSc.) (Co-op) - Computer Science
-    Graduation Date: April 2025
+- Bachelor of Science (HBSc.) (Co-op) - Computer Science
+- Graduation Date: April 2025
 
 ## Work Experience
 **Technology Risk Consulting Intern (GITC) @ KPMG LLP (_May 2023 - August 2023_)**
