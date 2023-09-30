@@ -6,10 +6,9 @@
 - Graphic Design: Abode Tools (Photoshop, Illustrator, Premiere Pro), Figma
 
 ## Education
-- Toronto Metropolitan University,
-- Toronto ON
-- Bachelor of Science (HBSc.) (Co-op) - Computer Science
-- Graduation Date: April 2025
+- Toronto Metropolitan University, Toronto ON
+    Bachelor of Science (HBSc.) (Co-op) - Computer Science
+    Graduation Date: April 2025
 
 ## Work Experience
 **Technology Risk Consulting Intern (GITC) @ KPMG LLP (_May 2023 - August 2023_)**
