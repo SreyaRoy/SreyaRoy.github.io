@@ -1,5 +1,6 @@
 # AI/ML Enthusiast
 [LinkedIn](https://www.linkedin.com/in/sreya-saha-roy/)
+![Resume](/assets/img/bike_study.jpeg)
 
 #### Technical Skills
 - Tools and Systems: SDLC, Trello, Microsoft Product Suite, Google Suite, Mac OS and Unix/Linux
