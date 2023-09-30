@@ -1,6 +1,6 @@
 # AI/ML Enthusiast
 - [LinkedIn](https://www.linkedin.com/in/sreya-saha-roy/)
-- [Download Resume (PDF)](Sreya Roy Resume New.pdf)
+- [Download Resume (PDF)](Resume/Sreya Roy Resume New.pdf)
 
 
 #### Technical Skills
