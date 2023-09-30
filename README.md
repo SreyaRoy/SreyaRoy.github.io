@@ -1,20 +1,29 @@
-# Data Scientist
+# AI/ML Enthusiast
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills
+• Tools and Systems: SDLC, Trello, Microsoft Product Suite, Google Suite, Mac OS and Unix/Linux
+• Programming Languages: Java, Python, HTML, CSS, JavaScript, SQL, Lisp, Bash and C
+• Graphic Design: Abode Tools (Photoshop, Illustrator, Premiere Pro), Figma
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Toronto Metropolitan University, Toronto ON               
+  Bachelor of Science (HBSc.) (Co-op) - Computer Science
+  Graduation Date: April 2025
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Technology Risk Consulting Intern (GITC) @ KPMG LLP (_May 2023 - August 2023_)**
+- Conducted thorough analyses of technology systems, identifying 37% more potential risks and vulnerabilities.
+- Collaborated closely with over 20 clients to comprehend their tech landscapes and business goals.
+- Developed customized risk management strategies, leveraging trends from ServiceNow tickets and UAT analysis.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Associate Product Manager Trainee @ Tikdin (_Dec 2022 - April 2023_)**
+- Conducted market research and analysis to identify user needs and trends and translated them into actionable product requirements.
+- Worked closely with product owners and stakeholders to define product goals, roadmap, and priorities, and ensured alignment with company strategy.
+- Conducted UAT and feedback sessions to validate product features for future iterations.
+
+**Technology Risk Consulting Intern @ KPMG LLP (_May 2022 - August 2022_)**
+- Conducted IT Audit for clients ensuring compliance and data security.
+- Tested the design and operating effectiveness of controls, documentation of testing, and resolution steps for deficiencies noted within the controls resulting in our team’s work being free from errors.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
