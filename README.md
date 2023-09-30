@@ -1,9 +1,9 @@
 # AI/ML Enthusiast
 
 #### Technical Skills
-• Tools and Systems: SDLC, Trello, Microsoft Product Suite, Google Suite, Mac OS and Unix/Linux
-• Programming Languages: Java, Python, HTML, CSS, JavaScript, SQL, Lisp, Bash and C
-• Graphic Design: Abode Tools (Photoshop, Illustrator, Premiere Pro), Figma
+- Tools and Systems: SDLC, Trello, Microsoft Product Suite, Google Suite, Mac OS and Unix/Linux
+- Programming Languages: Java, Python, HTML, CSS, JavaScript, SQL, Lisp, Bash and C
+- Graphic Design: Abode Tools (Photoshop, Illustrator, Premiere Pro), Figma
 
 ## Education
 - Toronto Metropolitan University, Toronto ON               
