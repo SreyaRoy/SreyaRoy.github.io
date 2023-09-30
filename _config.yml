@@ -1,7 +1,8 @@
 title: Sreya Saha Roy
 logo: /images/IMG_2748.png
-Email: sreya.s.roy@torontomu.ca
-[LinkedIn](https://www.linkedin.com/in/sreya-saha-roy/)
 show_downloads: true
 theme: jekyll-theme-minimal
+contact_information:
+  email: sreya.s.roy@torontomu.ca
+  linkedin: https://www.linkedin.com/in/sreya-saha-roy/
 
