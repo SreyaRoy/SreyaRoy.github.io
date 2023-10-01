@@ -40,7 +40,7 @@
 [Python Regression Modelling](https://github.com/SreyaRoy/PythonRegression)
 - Designed a visual representation of the relationship between test scores and statistics grades using **Python's Matplotlib function**. Employed a linear regression model to analyze the correlation between the two variables and quantified the model's fit using the coefficient of determination (R-squared).
 
-### Patienty - Application
+### Patienly - Application
 [Patiently Application](https://github.com/rubendplaza/patient-management-system)
 
 Collaborated with peers to design and develop a comprehensive Patient Management System, a web-based application aimed at streamlining healthcare processes. Led the frontend development using React and orchestrated seamless communication and data exchange across various system components.
