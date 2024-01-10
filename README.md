@@ -1,10 +1,10 @@
-# AI/ML Enthusiast
+# PM, Data Analyst and Consultant
 - [LinkedIn](https://www.linkedin.com/in/sreya-saha-roy/)
 - [Download Resume (PDF)](https://drive.google.com/file/d/1ryyoOShGD4l-wnYJLqeh-iLydx_1wCLR/view?usp=sharing)
 
 
 #### Technical Skills
-- Tools and Systems: SDLC, Trello, Microsoft Product Suite, Google Suite, Mac OS and Unix/Linux
+- Tools and Systems: PowerBi, Salesforce, Microsoft Product Suite, Google Suite, Mac OS and Unix/Linux
 - Programming Languages: Java, Python, HTML, CSS, JavaScript, SQL, Lisp, Bash and C
 - Graphic Design: Abode Tools (Photoshop, Illustrator, Premiere Pro), Figma
 
