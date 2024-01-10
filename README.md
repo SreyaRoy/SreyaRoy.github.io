@@ -20,7 +20,7 @@
 - Developed customized risk management strategies, leveraging trends from ServiceNow tickets and UAT analysis.
 - Worked with **SQL** queries to retrive data for data assesment and risk analysis 
 
-**Associate Product Manager Trainee @ Tikdin (_Dec 2022 - April 2023_)**
+**Associate Product Manager Intern @ Tikdin (_Dec 2022 - April 2023_)**
 - Conducted market research and analysis to identify user needs and trends and translated them into actionable product requirements.
 - Worked closely with product owners and stakeholders to define product goals, roadmap, and priorities, and ensured alignment with company strategy.
 - Conducted UAT and feedback sessions to validate product features for future iterations.
@@ -43,6 +43,6 @@
 ### Patienly - Application
 [Patiently Application](https://github.com/rubendplaza/patient-management-system)
 
-Collaborated with peers to design and develop a comprehensive Patient Management System, a web-based application aimed at streamlining healthcare processes. Led the frontend development using React and orchestrated seamless communication and data exchange across various system components.
+- Worked as a Scrum Master and collaborated with peers to design and develop a comprehensive Patient Management System, a web-based application aimed at streamlining healthcare processes. Led the frontend development using React and orchestrated seamless communication and data exchange across various system components.
 
 
