@@ -3,10 +3,12 @@
 - [Download Resume (PDF)](https://drive.google.com/file/d/1ryyoOShGD4l-wnYJLqeh-iLydx_1wCLR/view?usp=sharing)
 
 
-#### Technical Skills
-- Tools and Systems: PowerBi, Salesforce, Microsoft Product Suite, Google Suite, Mac OS and Unix/Linux
-- Programming Languages: Java, Python, HTML, CSS, JavaScript, SQL, Lisp, Bash and C
-- Graphic Design: Abode Tools (Photoshop, Illustrator, Premiere Pro), Figma
+#### Skills
+-	**Product Management:** SDLC, Agile Methodologies, Scrum, A/B Testing, User Story Writing, Product Road mapping, Product Strategy, Creation and Value Proposition
+-	**Tools:** Postman, Swagger, PowerBI, Salesforce, JIRA, Confluence, Microsoft Office, Google Suite, Mac OS and Linux
+-	**Programming:** Java, Python, HTML, CSS, JavaScript, SQL, Lisp, Bash and VBA
+-	**Design:** Adobe Tools (Photoshop, Illustrator, Premiere Pro), Figma
+-	**Certifications:** Software Product Management – University of Alberta
 
 ## Education
 - Toronto Metropolitan University, Toronto ON
