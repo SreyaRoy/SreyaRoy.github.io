@@ -14,6 +14,24 @@
 - Graduation Date: April 2025
 
 ## Work Experience
+**Digital Product Analyst Intern, Global Asset Management team @ RBC (_May 2024 - Present_)**
+- Assisting the Scrum Master in all scrum ceremonies, ensuring uninterrupted product delivery through daily stand-ups, backlog refinement,
+  sprint reviews, and retrospectives.
+- Evaluating processes and resources to identify potential limitations in internal RBC GAM Digital products.
+- Modifying designs to maximize client adoption and product quality.
+- Gathering internal and external feedback to identify potential improvements to existing products.
+- Generating processes and plans to measure product quality and evaluating results to identify deficiencies.
+- Writing comprehensive user stories focused on inclusive design, collaborating with engineering and design teams.
+- Creating and managing a JIRA service desk, optimizing workflows, and reducing SLA times by 50%.
+
+
+**Business Development Data Operations Intern @ Questrade Financial Group (_January 2024 - April 2024_)**
+- Collaborated with the Residential Lending Operations team, ensuring compliance, identifying growth opportunities, and supporting analytics needs.
+- Developed and implemented innovative Power BI reporting solutions, creating dashboards and visualizations for B2B users resulting in 30%
+  more efficiency and accuracy in data.
+- Contributed to the business plan through tracking tool creation and competitive intelligence monitoring using data from Salesforce.
+
+
 **Technology Risk Consulting Intern (GITC) @ KPMG LLP (_May 2023 - August 2023_)**
 - Conducted thorough analyses of technology systems, identifying 37% more potential risks and vulnerabilities.
 - Collaborated closely with over 20 clients to comprehend their tech landscapes and business goals.
