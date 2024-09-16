@@ -1,6 +1,6 @@
 # PM, Data Analyst and Consultant
 - [LinkedIn](https://www.linkedin.com/in/sreya-saha-roy/)
-- [Download Resume (PDF)](https://drive.google.com/file/d/1ryyoOShGD4l-wnYJLqeh-iLydx_1wCLR/view?usp=sharing)
+- [Download Resume (PDF)](https://drive.google.com/file/d/1BTJ3MoBItro8aNzmq32o_12hkBnbcCNY/view?usp=sharing)
 
 
 #### Skills
