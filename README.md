@@ -51,6 +51,9 @@
 - Worked with **SQL** queries to retrive data for data assesment and risk analysis
 
 ## Projects
+### Retail Database Management System on SQL
+[Retail DB](https://docs.google.com/document/d/1cHbGIaNpiZuic652lDaPn-YkFfdhXN7y/edit?usp=share_link&ouid=106019795377681287874&rtpof=true&sd=true)
+- The Retail Database Management System project involved designing and implementing a SQL-based solution to streamline and manage retail operations. The system centralized critical data, including inventory, sales, customer details, and supplier information, enabling efficient tracking and analysis.
 
 ### Sentiment Analysis of Musical Reviews: Understanding Customer Emotions and Preferences
 [PythonNLP-Musical Reviews](https://github.com/SreyaRoy/PythonNLP.git)
