@@ -51,7 +51,7 @@
 - Worked with **SQL** queries to retrive data for data assesment and risk analysis
 
 ## Projects
-###TeamSync - AI-Powered Daily Standup Bot (Python, Flask, OpenAI API, SQLite)###
+### TeamSync - AI-Powered Daily Standup Bot (Python, Flask, OpenAI API, SQLite)
 [TeamSync](https://github.com/SreyaRoy/TeamSync)
 - Developed a Slack-integrated bot to automate daily standups with AI-driven summarization and team progress tracking.
   
