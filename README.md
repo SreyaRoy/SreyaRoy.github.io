@@ -1,4 +1,4 @@
-# PM, Data Analyst and Consultant
+# Product Manager, Project Manager, Data Analyst and Consultant
 - [LinkedIn](https://www.linkedin.com/in/sreya-saha-roy/)
 - [Download Resume (PDF)](https://drive.google.com/file/d/1BTJ3MoBItro8aNzmq32o_12hkBnbcCNY/view?usp=sharing)
 
@@ -51,6 +51,10 @@
 - Worked with **SQL** queries to retrive data for data assesment and risk analysis
 
 ## Projects
+###TeamSync - AI-Powered Daily Standup Bot (Python, Flask, OpenAI API, SQLite)###
+[TeamSync](https://github.com/SreyaRoy/TeamSync)
+- Developed a Slack-integrated bot to automate daily standups with AI-driven summarization and team progress tracking.
+  
 ### Retail Database Management System on SQL
 [Retail DB](https://docs.google.com/document/d/1cHbGIaNpiZuic652lDaPn-YkFfdhXN7y/edit?usp=share_link&ouid=106019795377681287874&rtpof=true&sd=true)
 - The Retail Database Management System project involved designing and implementing a SQL-based solution to streamline and manage retail operations. The system centralized critical data, including inventory, sales, customer details, and supplier information, enabling efficient tracking and analysis.
